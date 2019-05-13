@@ -1,4 +1,4 @@
-# Results of Machine Learning
+# Answers of Machine Learning Exercises
 
 Here are the results of all programming work at [https://www.coursera.org/learn/machine-learning/home/welcome](https://www.coursera.org/learn/machine-learning/home/welcome).
 
